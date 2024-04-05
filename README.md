@@ -13,16 +13,12 @@ Visual components and Python
 
 ![image](https://github.com/NAVEEN-2006/Open-Jacson-Networks/assets/152067648/a840037d-aa4e-4547-a415-a28a03081a8d)
 
-
 ## Procedure :
 
 ![image](https://github.com/NAVEEN-2006/Open-Jacson-Networks/assets/152067648/5cf2e6fb-196e-4287-bf72-1d1443095db3)
 
-
-
 ## Experiment:
 ![image](https://github.com/NAVEEN-2006/Open-Jacson-Networks/assets/152067648/2eb6b0ec-326d-4a17-b29a-ce00b25b64a0)
-
 
 ## Program :
 ```
