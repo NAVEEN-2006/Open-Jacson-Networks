@@ -11,8 +11,7 @@ Visual components and Python
 
 ## Theory :
 
-![image](https://github.com/NAVEEN-2006/Open-Jacson-Networks/assets/152067648/3f9e760c-466b-4d37-938d-e45a57edeeb5)
-
+![image](https://github.com/NAVEEN-2006/Open-Jacson-Networks/assets/152067648/a840037d-aa4e-4547-a415-a28a03081a8d)
 
 
 ## Procedure :
